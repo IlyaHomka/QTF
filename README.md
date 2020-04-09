@@ -1,2 +1,2 @@
 # QTF
-Implementation of Tensorflow Quantum to state-of-the-art problems
+In this project we implement a new python lybrary, Tensorflow Quantum, to solve superconductivity problems. 
